@@ -6,5 +6,8 @@
   "dependencies": {
     "cors": "^2.8.5",
     "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "web-vitals": "^5.0.3"
   }
 }
